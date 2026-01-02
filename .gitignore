@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Downloads that shouldn't be committed
+*.dmg
+*.xlsx
+*.xls
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
+
+# Node (if GitBook tooling is used locally)
+node_modules/
