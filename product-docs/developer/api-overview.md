@@ -167,12 +167,13 @@ API requests are rate limited:
 
 ## Webhooks
 
-*Coming soon*
+Webhook support is planned for a future release. This will enable receiving notifications for events such as:
 
-Receive notifications for events:
 - Construct created/updated
 - Run completed
 - Repository changes
+
+Contact [kernel-support@asimov.com](mailto:kernel-support@asimov.com) if you have a specific integration need.
 
 ## Best Practices
 
