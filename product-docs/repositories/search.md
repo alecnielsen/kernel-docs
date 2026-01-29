@@ -7,7 +7,7 @@ Find constructs, parts, and other content across your workspace.
 ### Access
 
 - Click the search bar in the header
-- Press `/` as a keyboard shortcut
+- Press **Cmd/Ctrl + K** or **/** to open search
 - Type your query
 
 ### Search Scope
