@@ -16,7 +16,7 @@ client = KernelClient(token=os.environ["KERNEL_TOKEN"])
 # Or with explicit base URL
 client = KernelClient(
     token=os.environ["KERNEL_TOKEN"],
-    base_url="https://kv2.dev.asimov.io"
+    base_url="https://kernel.asimov.com"
 )
 ```
 

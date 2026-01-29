@@ -48,7 +48,7 @@ Authorization: Bearer YOUR_TOKEN
 curl -X GET \
   -H "Authorization: Bearer YOUR_TOKEN" \
   -H "Content-Type: application/json" \
-  https://kv2.dev.asimov.io/api/v1/constructs
+  https://kernel.asimov.com/api/v1/constructs
 ```
 
 ### Python Example
@@ -62,7 +62,7 @@ headers = {
 }
 
 response = requests.get(
-    "https://kv2.dev.asimov.io/api/v1/constructs",
+    "https://kernel.asimov.com/api/v1/constructs",
     headers=headers
 )
 ```

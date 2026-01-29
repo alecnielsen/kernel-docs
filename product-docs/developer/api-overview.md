@@ -14,7 +14,7 @@ OpenAPI-compliant REST endpoints for:
 - Search and filtering
 - Run management
 
-**Documentation**: [https://kv2.dev.asimov.io/docs](https://kv2.dev.asimov.io/docs)
+**Documentation**: [https://kernel.asimov.com/docs](https://kernel.asimov.com/docs)
 
 ### GraphQL API
 
@@ -23,7 +23,7 @@ Flexible GraphQL interface for:
 - Relationship traversal
 - Efficient data fetching
 
-**Endpoint**: `https://kv2.dev.asimov.io/graphql`
+**Endpoint**: `https://kernel.asimov.com/graphql`
 
 ### Python SDK
 
@@ -45,7 +45,7 @@ Official Python client library:
 
 ```bash
 curl -H "Authorization: Bearer YOUR_TOKEN" \
-  https://kv2.dev.asimov.io/api/v1/me
+  https://kernel.asimov.com/api/v1/me
 ```
 
 ### 3. Explore Documentation
